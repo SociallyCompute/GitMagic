@@ -1,18 +1,11 @@
-# include <stdio.h>
+#include <stdio.h>
 
-
-// Function to include & executeA
-int bensSentence1()
-{
-  printf("Once upon a time\n");
+int bpbkt7Sentence1() {
+  printf("\nOnce upon a time,\n");
   return 1;
 }
 
-int bensSentence_FINAL()
-{
-  printf("\nThe end. \n");
+int bpbkt7Sentence2() {
+  printf("\nThe end.\n");
   return 1;
 }
-
-
-
